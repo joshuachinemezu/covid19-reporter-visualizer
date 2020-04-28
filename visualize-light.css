@@ -16,7 +16,7 @@
 	border-bottom: none;
 }
 .card {
-	height: 80vh;
+	height: 100%;
 	min-height: 400px;
 	margin-bottom: 1em;
 }
